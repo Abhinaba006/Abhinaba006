@@ -9,7 +9,7 @@
 - ♟  chess lover
 - 🎮 a gamer when bored
 
-<img align="left" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/source.mp4" width="500"/>
+<img align="left" alt="GIF" src="https://media.tenor.com/images/cdf00f711247d0fbd2b93f1bd9caecfd/tenor.gif" width="500"/>
 
 <br>
 <h2>Connect with me</h2>
