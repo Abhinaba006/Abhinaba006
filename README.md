@@ -3,17 +3,18 @@
 
 ## I am Abhinaba Das and I am 
 
-- 💻 Computer Science and Engineering Undergraduate. -
-- 🧠 Machine learning Enthusiast and a newbie in backend devlopment 🌎  -
-- 🤔 curios person with a thinking mind -
-- ♟  chess lover -
-- 🎮 a gamer when bored -
+- 💻 Computer Science and Engineering Undergraduate.
+- 🧠 Machine learning Enthusiast and a newbie in backend devlopment 🌎  
+- 🤔 curios person with a thinking mind 
+- ♟  chess lover 
+- 🎮 a gamer when bored 
+<br>
 
 <img align="left" alt="GIF" src="https://media.tenor.com/images/cdf00f711247d0fbd2b93f1bd9caecfd/tenor.gif" width="500"/>
 
 <br>
 <h2>Connect with me</h2>
-
+<br>
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinaba006@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-007FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinaba-das006/)  
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-ff90d8?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhinaba__das/) 
