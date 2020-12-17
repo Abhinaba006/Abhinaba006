@@ -3,11 +3,11 @@
 
 ## I am Abhinaba Das and I am 
 
-- 💻 Computer Science and Engineering Undergraduate.
-- 🧠 Machine learning Enthusiast and a newbie in backend devlopment 🌎   
-- 🤔 curios person with a thinking mind
-- ♟  chess lover
-- 🎮 a gamer when bored
+- 💻 Computer Science and Engineering Undergraduate. -
+- 🧠 Machine learning Enthusiast and a newbie in backend devlopment 🌎  -
+- 🤔 curios person with a thinking mind -
+- ♟  chess lover -
+- 🎮 a gamer when bored -
 
 <img align="left" alt="GIF" src="https://media.tenor.com/images/cdf00f711247d0fbd2b93f1bd9caecfd/tenor.gif" width="500"/>
 
