@@ -20,3 +20,7 @@
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-ff90d8?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhinaba__das/) 
 [![Facebook](https://img.shields.io/badge/-FACEBOOK-3457D5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abhinaba.das.94801/)  
 [![Chess.com](https://img.shields.io/badge/-CHESS.COM-green?style=for-the-badge&logo=chess.com&logoColor=green)](https://www.chess.com/member/abhinaba006)
+
+<br>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaba006&layout=compact&hide=html&theme=light" alt="abhinaba" width="400"/>
