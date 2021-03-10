@@ -23,4 +23,4 @@
 
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaba006&layout=compact&hide=html&theme=light" alt="abhinaba" width="400"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaba006&layout=compact&hide=html&theme=light" alt="abhinaba" width="400"/>
