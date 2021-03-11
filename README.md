@@ -10,7 +10,7 @@
 - 🎮 a gamer when bored 
 <br>
 
-<img align="left" alt="GIF" src="https://media.tenor.com/images/cdf00f711247d0fbd2b93f1bd9caecfd/tenor.gif" width="300"/>
+
 
 <br>
 <h2>Connect with me</h2>
